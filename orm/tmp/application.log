@@ -1,0 +1,36 @@
+2021-03-30 08:52:56 INFO  [io.quarkus] - orm 1.0.0-SNAPSHOT on JVM (powered by Quarkus 1.12.2.Final) started in 0.496s. 
+2021-03-30 08:52:56 INFO  [io.quarkus] - Profile dev activated. Live Coding activated.
+2021-03-30 08:52:56 INFO  [io.quarkus] - Installed features: [agroal, cdi, hibernate-orm, hibernate-orm-panache, jdbc-postgresql, mutiny, narayana-jta, smallrye-context-propagation]
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - Iniciando aplicacao
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 70857 - 60803 - Dra Fernanda
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 67287 - 57200 - EUCLIDENTE
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 69966 - 59912 - Haydée Odontologia Estética
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 71527 - 61473 - Deb Odonto Kids
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 70506 - 60452 - Esthetica Bucal
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 67735 - 57664 - Yara Pereira Teixeira
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 70646 - 60592 - Dr. Jallef Costa
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 71810 - 61756 - MM DIAS ODONTO
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 71423 - 61369 - Hellen Homine
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 70808 - 60754 - Clinica Cirurgia da Boca
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 13491 - 387 - Clínica Flavia Gomes Sanderson
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 62769 - 52275 - Guy Fonzar
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 20877 - 7851 - Clínica Carlos Eduardo Ferreira Andrade 
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 63071 - 52577 - Univates
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 36337 - 23871 - rafael
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 49291 - 37615 - Fhs Odontologia
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 63389 - 52895 - WFS
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 53574 - 42947 - Odontopremium
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 70813 - 60759 - MARIA DE NAZARÉ MUNIZ
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 67732 - 57661 - Mayara Thais Flor Rosal
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 70968 - 60914 - Cledna Dantas Borges
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 71330 - 61276 - Optocenter
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 68078 - 58009 - CRISTIANE FRANÇA
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 71982 - 61928 - SORRIA MACEIÓ
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 71421 - 61367 - Odonto - AW
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 64715 - 54488 - DOCS CID. OPERÁRIA
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 71024 - 60970 - DR DIEGO GOIS
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 68097 - 58028 - Laura Ferreira Silva
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 70969 - 60915 - Tussini Ortodontia
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - 71306 - 61252 - Dr. Igor Hoffman - Implantodontia Avançada
+2021-03-30 08:52:56 INFO  [io.al.co.qu.or.pa.AppMain] - finalizando aplicacao
+2021-03-30 08:52:56 INFO  [io.quarkus] - orm stopped in 0.001s
